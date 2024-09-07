@@ -4,7 +4,7 @@
 - 📚 Background: I started as a chemical/environmental engineer, pivoted to chemical oceanography, and am now a coastal water resources specialist (the intersection of environmental engineering and oceanography)
 - 🌊 Water always: When I'm not building tools to learn about the coast or teaching/learning more, I'm usually in or near the water! I love surfing, open water rowing, stand-up and prone paddling, and cycling/running near the water.
 
----
+### Where I Work 🏄
 
 *Here's a snippet from our lab's [homepage](https://coast-lab.org/), which I built using GitHub Pages (you can find the source code [here](https://github.com/COAST-Lab/COAST-Lab.github.io).*  
 
@@ -28,7 +28,7 @@ Environmental topics of interest include (but aren't limited to!):
     <li>platform development and sensor integration for novel sensing approaches.</li>
 </ul>
 
-### Languages and Tools 🛠 
+### Primary Languages and Tools 🛠 
 
 ![C](http://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=ffffff)
 ![Python](http://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=ffffff)
