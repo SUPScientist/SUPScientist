@@ -1,6 +1,6 @@
 # Hello! I'm Phil Bresnahan. Welcome to my GitHub profile
 
-- 👨‍💻 Work: I'm currently working on the repos that you see [here](https://github.com/SUPScientist), [here](https://github.com/COAST-Lab), and [here](https://github.com/TinyCamML)
+- 👨‍💻 Work: I'm currently working on the repos that you see lower on my profile here, the [COAST-Lab org](https://github.com/COAST-Lab), and the [TinyCamML org](https://github.com/TinyCamML)
 - 📚 Background: I started as a chemical/environmental engineer, pivoted to chemical oceanography, and am now a coastal water resources specialist (the intersection of environmental engineering and oceanography)
 - 🌊 Water always: When I'm not building tools to learn about the coast or teaching/learning more, I'm usually in or near the water! I love surfing, open water rowing, stand-up and prone paddling, and cycling/running near the water.
 
