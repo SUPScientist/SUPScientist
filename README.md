@@ -6,7 +6,7 @@
 
 ### Where I Work 🏄
 
-*Here's a snippet from our lab's [homepage](https://coast-lab.org/), which I built using GitHub Pages (you can find the source code [here](https://github.com/COAST-Lab/COAST-Lab.github.io).*  
+*Here's a snippet from our lab's [homepage](https://coast-lab.org/), which I built using GitHub Pages (you can find the source code [here](https://github.com/COAST-Lab/COAST-Lab.github.io)).*  
 
 The Coastal Ocean Applied Science & Technology Lab seeks to find answers to and develop and communicate solutions for our most pressing environmental questions and problems. <a href="/professorBresnahan/">PI Phil Bresnahan</a> and the COAST Lab are situated at the University of North Carolina Wilmington and affiliated with the <a href="https://uncw.edu/earsci/">Department of Earth and Ocean Sciences<a/> and <a href="https://uncw.edu/cms/">Center for Marine Science<a/>.  We focus on coastal water resources and resilience, and we employ a combination of ocean and environmental engineering and applied science approaches. 
     
